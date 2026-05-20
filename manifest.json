@@ -1,0 +1,29 @@
+{
+  "short_name": "SignatureNuts",
+  "name": "Signature Nuts",
+  "description": "Crunchy, Fresh, and Healthy premium chocolates, nuts, dried fruits, and ice cream.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "android-chrome-512x512.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4A3E3D",
+  "background_color": "#FFFDF9",
+  "orientation": "portrait"
+}
